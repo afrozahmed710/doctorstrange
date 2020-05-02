@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/doctorstrange/static/css/main.abae19d5.chunk.css",
+    "main.js": "/doctorstrange/static/js/main.bf3b63ae.chunk.js",
+    "main.js.map": "/doctorstrange/static/js/main.bf3b63ae.chunk.js.map",
+    "runtime-main.js": "/doctorstrange/static/js/runtime-main.f3a55f00.js",
+    "runtime-main.js.map": "/doctorstrange/static/js/runtime-main.f3a55f00.js.map",
+    "static/js/2.b9d06fb1.chunk.js": "/doctorstrange/static/js/2.b9d06fb1.chunk.js",
+    "static/js/2.b9d06fb1.chunk.js.map": "/doctorstrange/static/js/2.b9d06fb1.chunk.js.map",
+    "index.html": "/doctorstrange/index.html",
+    "precache-manifest.e838aad45631ec531a8b840ab02f4b11.js": "/doctorstrange/precache-manifest.e838aad45631ec531a8b840ab02f4b11.js",
+    "service-worker.js": "/doctorstrange/service-worker.js",
+    "static/css/main.abae19d5.chunk.css.map": "/doctorstrange/static/css/main.abae19d5.chunk.css.map",
+    "static/js/2.b9d06fb1.chunk.js.LICENSE.txt": "/doctorstrange/static/js/2.b9d06fb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a55f00.js",
+    "static/js/2.b9d06fb1.chunk.js",
+    "static/css/main.abae19d5.chunk.css",
+    "static/js/main.bf3b63ae.chunk.js"
+  ]
+}
